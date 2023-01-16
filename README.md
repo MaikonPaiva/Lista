@@ -17,4 +17,4 @@ A Lista-de-presença é um componente que simula um formulário de confirmação
 
 <h4> 📱 Pagina </h4>
 
-Você pode visualizar a pagina do projeto através desse link:
+Você pode visualizar a pagina do projeto através desse link: https://lista-sandy.vercel.app/
