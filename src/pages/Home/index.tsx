@@ -42,7 +42,7 @@ fetch('https://api.github.com/users/MaikonPaiva')
 },[])
   return (
   <div className="container">
-  <img src="./public/imagem.png" alt="" id="imagem"></img>
+  <img src="/imagem.png" alt="" id="imagem"></img>
  
     
    <header>
